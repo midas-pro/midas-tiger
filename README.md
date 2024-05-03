@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @midas-tiger
 - 👀 I’m interested in developing website and mobile app
-- 🌱 I am a MERN,MEAN,MEVN,shopify developer.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I am a Full-Stack developer.
+- 💞️ I’m looking for interesting project and cool client.
+- 😄 Pronouns:He/Him
 
 <!---
 midas-tiger/midas-tiger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
