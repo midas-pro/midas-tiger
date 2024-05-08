@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @midas-tiger
-- 👀 I’m interested in developing website and mobile app
-- 🌱 I am a Full-Stack developer.
-- 💞️ I’m looking for interesting project and cool client.
-- 😄 Pronouns:He/Him
-
-<!---
-midas-tiger/midas-tiger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![alt text](https://media.licdn.com/dms/image/D4E12AQEnNKiiNUKz9Q/article-cover_image-shrink_720_1280/0/1693476739453?e=2147483647&v=beta&t=vA7q5Jo23C2UXQE4FQ3lTlpB7ugmZa5QZzAfSQ5rQ-A)
